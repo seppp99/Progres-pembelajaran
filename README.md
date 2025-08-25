@@ -8,3 +8,7 @@ Saya mengikuti program Asah dari dicoding, dan telah menyelesaikan beberapa kela
 **25 Agustuss 2025**<br>
 Progres Belajar :
 * mengerjakan kelas belajar dasar git dengan github
+
+**schedule 26 Agustus 2025**<br>
+rencana Belajar : 
+* target selesai untuk kelas belajar dasar git dengan github
